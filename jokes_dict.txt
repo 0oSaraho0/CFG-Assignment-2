@@ -17,6 +17,7 @@
   "Delivery": "An outlaw is wanted."
 }{
   "Date": "Sunday 24 September 2023",
-  "Category": "Pun",
-  "Joke": "Two fish in a tank. One turns to the other and says, \"Do you know how to drive this thing?\""
+  "Category": "Misc",
+  "Setup": "My mother said, \"You won't amount to anything because you always procrastinate.\"",
+  "Delivery": "I said, \"Oh yeah... Just you wait.\""
 }

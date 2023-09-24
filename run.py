@@ -32,27 +32,32 @@ def do_you_want_a_joke():
     title = pyfiglet.figlet_format('Joke of the Day', font="ogre", justify='center')
     print(title)
 
-    want_joke = input("Would you like to hear a joke today? yes/no ").lower()
-    if want_joke == "no":
-        print("Oh ok see you another day")
-    elif want_joke == "yes":
-        date_today()
-    else:
-        print(" Sorry I didn't understand please say yes or no")
-        do_you_want_a_joke()
+    while True:
+        want_joke = input("Would you like to hear a joke today? yes/no ").lower()
+        if want_joke == "no":
+            print("Oh ok see you another day")
+            exit()
+        elif want_joke == "yes":
+            date_today()
+            break
+        else:
+            print(" Sorry I didn't understand please say yes or no")
+            do_you_want_a_joke()
+            break
 
 
 def date_today():
     """A function to decide if the user can have a joke today.
     links to get_joke function"""
-
-    with open("jokes_dict.txt", "r") as dict_joke_file:
-        content = dict_joke_file.read()
-        if strftime_date in content:
-            print("Oh no you only get one joke a day. Come back again tomorrow")
-            do_you_want_a_joke()
-        else:
-            get_joke()
+    while True:
+        with open("jokes_dict.txt", "r") as dict_joke_file:
+            content = dict_joke_file.read()
+            if strftime_date in content:
+                print("Oh no you only get one joke a day. Come back again tomorrow")
+                exit()
+            else:
+                get_joke()
+                break
 
 
 def get_joke():
