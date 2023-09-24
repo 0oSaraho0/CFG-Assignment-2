@@ -17,7 +17,7 @@
   "Delivery": "An outlaw is wanted."
 }{
   "Date": "Sunday 24 September 2023",
-  "Category": "Misc",
-  "Setup": "My mother said, \"You won't amount to anything because you always procrastinate.\"",
-  "Delivery": "I said, \"Oh yeah... Just you wait.\""
+  "Category": "Dark",
+  "Setup": "What did the boy with no arms get for Christmas?",
+  "Delivery": "I don't know, he hasn't opened it yet."
 }

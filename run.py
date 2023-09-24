@@ -21,13 +21,9 @@ joke_dict = {}
 # Define API url
 url = "https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&amount=10"
 
-# Add date to Jokes output file
-with open("jokes_output.txt", "a") as joke_file:
-    joke_file.write("\n" + strftime_date + "\n")
-
 
 def do_you_want_a_joke():
-    """ funs title and asks if the user wants a joke today. uses if else statement to make sure yes or no
+    """ fins title and asks if the user wants a joke today. uses if else statement to make sure yes or no
     is input. links to date_today function"""
     title = pyfiglet.figlet_format('Joke of the Day', font="ogre", justify='center')
     print(title)
@@ -36,6 +32,7 @@ def do_you_want_a_joke():
         want_joke = input("Would you like to hear a joke today? yes/no ").lower()
         if want_joke == "no":
             print("Oh ok see you another day")
+            # exit they app if user does not want a jokes
             exit()
         elif want_joke == "yes":
             date_today()
@@ -76,6 +73,10 @@ def get_joke():
 
 def pick_joke():
     """A function for the user to pick their category and get their joke"""
+    # Add date to Jokes output file
+    with open("jokes_output.txt", "a") as joke_file:
+        joke_file.write("\n" + strftime_date + "\n")
+    # add date to dictionary
     joke_dict.update({"Date": strftime_date})
     # Get category from user
     category = input(
