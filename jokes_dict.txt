@@ -1,0 +1,23 @@
+{"Date": "Wednesday 20 September 2023", "Category": "Pun", "Setup": "", "Delivery": "", "Joke": "To whoever stole my copy of Microsoft Office, I will find you. You have my Word!"}{
+  "Date": "Thursday 21 September 2023",
+  "Category": "Pun",
+  "Setup": "I just got fired from my job at the keyboard factory.",
+  "Delivery": "They told me I wasn't putting in enough shifts.",
+  "Joke": ""
+}{
+  "Date": "Friday 22 September 2023",
+  "Category": "Misc",
+  "Setup": "What's the difference between a hot potato and a flying pig?",
+  "Delivery": "One's a heated yam, the other's a yeeted ham.",
+  "Joke": ""
+}{
+  "Date": "Saturday 23 September 2023",
+  "Category": "Misc",
+  "Setup": "What's the difference between an in-law and an outlaw?",
+  "Delivery": "An outlaw is wanted."
+}{
+  "Date": "Sunday 24 September 2023",
+  "Category": "Dark",
+  "Setup": "Jokes about anti-vaxxer parents never get old.",
+  "Delivery": "Just like their kids."
+}
