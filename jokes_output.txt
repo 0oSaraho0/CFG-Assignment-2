@@ -52,20 +52,6 @@ Your joke is:
 My employer came running to me and said, "I was looking for you all day! Where the hell have you been?"
 I replied, "Good employees are hard to find."
 
-Friday 22 September 2023
-
-Friday 22 September 2023
-
-Friday 22 September 2023
-Your chosen joke category is Pun
-Oysters hate to give away their pearls because they are shellfish
-
-
-Friday 22 September 2023
-Your chosen joke category is Misc
-Never date a baker
- They're too kneady
-
 
 Saturday 23 September 2023
 Your chosen joke category is Dark
@@ -79,136 +65,6 @@ My girlfriend's dog died, so I tried to cheer her up by getting her an identical
  It just made her more upset
  She screamed at me, "What am I supposed to do with two dead dogs?"
 
-Saturday 23 September 2023
-Your chosen joke category is Pun
-Your joke is:
-Which part of the hospital has the least privacy?
-The ICU.
-category:Pun
-setup:The ICU.
-category:Pun
-setup:The ICU.
-category:Pun
-setup:The ICU.
-category:Pun
-setup:The ICU.
-
-Saturday 23 September 2023
-Your chosen joke category is Dark
-I have a fish that can breakdance! Only for 20 seconds though, and only once
-
-category:Dark
-joke:I have a fish that can breakdance! Only for 20 seconds though, and only once.
-
-Saturday 23 September 2023
-Your chosen joke category is Misc
-Two reasons I don't give money to homeless people
-
-1) They are going to spend it all on drugs and alcohol
-2) I am going to spend it all on drugs and alcohol
-
-category:Misc
-joke:Two reasons I don't give money to homeless people.
-1) They are going to spend it all on drugs and alcohol
-2) I am going to spend it all on drugs and alcohol.
-category:Misc
-joke:Two reasons I don't give money to homeless people.
-1) They are going to spend it all on drugs and alcohol
-2) I am going to spend it all on drugs and alcohol.
-
-Saturday 23 September 2023
-Your chosen joke category is Dark
-I'll never forget my Granddad's last words to me just before he died
- "Are you still holding the ladder?"
-date:Saturday 23 September 2023
-category:Dark
-joke:I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"
-
-Saturday 23 September 2023
-Your chosen joke category is Dark
-Doctor: "I have some news about your baby
-"
-Parents: "Don't tell us the gender, we want to keep it a surprise
-"
-Doctor: "Oh I get it, you're those type of people
- Okay, well IT is not breathing
-"
-date:Saturday 23 September 2023
-category:Dark
-joke:Doctor: "I have some news about your baby."
-Parents: "Don't tell us the gender, we want to keep it a surprise."
-Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."
-
-Saturday 23 September 2023
-Your chosen joke category is Spooky
-Your joke is:
-Why do ghosts go on diets?
-So they can keep their ghoulish figures.
-date:Saturday 23 September 2023
-category:Spooky
-setup:So they can keep their ghoulish figures.
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-Your chosen joke category is Spooky
-Your joke is:
-I'm not saying my son is ugly...
-But on Halloween he went to tell the neighbors to turn down their TV and they gave him some candy.
-date:Saturday 23 September 2023
-category:Spooky
-setup:I'm not saying my son is ugly...
-delivery:But on Halloween he went to tell the neighbors to turn down their TV and they gave him some candy.
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-Your chosen joke category is Pun
-Your joke is:
-Why did the Romanian stop reading?
-They wanted to give the Bucharest.
-date:Saturday 23 September 2023
-category:Pun
-setup:Why did the Romanian stop reading?
-delivery:They wanted to give the Bucharest.
-
-Saturday 23 September 2023
-Your chosen joke category is Pun
-Your joke is:
-What do you call a pile of kittens?
-A meowntain.
-date:Saturday 23 September 2023
-category:Pun
-setup:What do you call a pile of kittens?
-delivery:A meowntain.
-
-Saturday 23 September 2023
-Your chosen joke category is Pun
-Your joke is:
-What did the customer say to the waiter?
-I'm all fed up with your service.
-date:Saturday 23 September 2023
-category:Pun
-setup:What did the customer say to the waiter?
-delivery:I'm all fed up with your service.
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
 
 Saturday 23 September 2023
 Your chosen joke category is Spooky
@@ -279,71 +135,6 @@ date:Saturday 23 September 2023
 category:Pun
 setup:Did you hear about the cheese factory that exploded in France?
 delivery:There was nothing but de brie.
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-Your chosen joke category is Spooky
-Your joke is:
-What's it like to be kissed by a vampire?
-It's a pain in the neck.
-date:Saturday 23 September 2023
-category:Spooky
-setup:What's it like to be kissed by a vampire?
-delivery:It's a pain in the neck.
-
-Saturday 23 September 2023
-Your chosen joke category is Pun
-Oysters hate to give away their pearls because they are shellfish
-
-date:Saturday 23 September 2023
-category:Pun
-joke:Oysters hate to give away their pearls because they are shellfish.
-
-Saturday 23 September 2023
-Your chosen joke category is Christmas
-Your joke is:
-Why does Santa have three gardens?
-So he can 'ho ho ho'!
-date:Saturday 23 September 2023
-category:Christmas
-setup:Why does Santa have three gardens?
-delivery:So he can 'ho ho ho'!
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-
-Saturday 23 September 2023
-Your chosen joke category is Pun
-I'm reading a book about anti-gravity
- It's impossible to put down!
-date:Saturday 23 September 2023
-category:Pun
-joke:I'm reading a book about anti-gravity. It's impossible to put down!
-
-Saturday 23 September 2023
-Your chosen joke category is Pun
-Your joke is:
-The other day my wife asked me to pass her lipstick, but I accidentally gave her a glue stick.
-She still isn't talking to me.
-date:Saturday 23 September 2023
-category:Pun
-setup:The other day my wife asked me to pass her lipstick, but I accidentally gave her a glue stick.
-delivery:She still isn't talking to me.
-
-Sunday 24 September 2023
-Your chosen joke category is Misc
 
 Sunday 24 September 2023
 Your chosen joke category is Pun
@@ -440,84 +231,13 @@ Your joke is:
 What kind of car did Whitney Houston drive?
 A Hyundaiiiiiiiiiiii
 
-Sunday 24 September 2023
-Your chosen joke category is Pun
-To whoever stole my copy of Microsoft Office, I will find you
- You have my Word!
 
 Sunday 24 September 2023
-Your chosen joke category is Pun
+
+Sunday 24 September 2023
+
+Sunday 24 September 2023
+Your chosen joke category is Christmas
 Your joke is:
-I just got fired from my job at the keyboard factory.
-They told me I wasn't putting in enough shifts.
-
-Sunday 24 September 2023
-Your chosen joke category is Misc
-Your joke is:
-What's the difference between a hot potato and a flying pig?
-One's a heated yam, the other's a yeeted ham.
-
-Sunday 24 September 2023
-Your chosen joke category is Misc
-Your joke is:
-What's the difference between an in-law and an outlaw?
-An outlaw is wanted.
-
-Sunday 24 September 2023
-Your chosen joke category is Pun
-I have a joke about trickle down economics, but 99% of you will never get it
-
-
-Sunday 24 September 2023
-Your chosen joke category is Dark
-Your joke is:
-Jokes about anti-vaxxer parents never get old.
-Just like their kids.
-
-Sunday 24 September 2023
-
-Sunday 24 September 2023
-Your chosen joke category is Pun
-I have a joke about trickle down economics, but 99% of you will never get it
-
-
-Sunday 24 September 2023
-
-Sunday 24 September 2023
-Your chosen joke category is Pun
-Two fish in a tank
- One turns to the other and says, "Do you know how to drive this thing?"
-
-Sunday 24 September 2023
-
-Sunday 24 September 2023
-
-Sunday 24 September 2023
-Your chosen joke category is Misc
-I visited my friend at his new house
- He told me to make myself at home
- So I threw him out
- I hate having visitors
-
-
-Sunday 24 September 2023
-
-Sunday 24 September 2023
-Your chosen joke category is Misc
-Your joke is:
-My mother said, "You won't amount to anything because you always procrastinate."
-I said, "Oh yeah... Just you wait."
-
-Sunday 24 September 2023
-Your chosen joke category is Pun
-Your joke is:
-I can't believe I got fired from the calendar factory.
-All I did was take a day off.
-
-Sunday 24 September 2023
-
-Sunday 24 September 2023
-Your chosen joke category is Dark
-Your joke is:
-What did the boy with no arms get for Christmas?
-I don't know, he hasn't opened it yet.
+Who is Santa's favourite singer?
+Elf-is Presley!

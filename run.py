@@ -31,16 +31,13 @@ def do_you_want_a_joke():
     while True:
         want_joke = input("Would you like to hear a joke today? yes/no ").lower()
         if want_joke == "no":
-            print("Oh ok see you another day")
+            print("Oh ok see you next time")
             # exit they app if user does not want a jokes
-            exit()
+            return
         elif want_joke == "yes":
-            date_today()
-            break
+            return date_today()
         else:
             print(" Sorry I didn't understand please say yes or no")
-            do_you_want_a_joke()
-            break
 
 
 def date_today():
@@ -51,10 +48,9 @@ def date_today():
             content = dict_joke_file.read()
             if strftime_date in content:
                 print("Oh no you only get one joke a day. Come back again tomorrow")
-                exit()
+                return
             else:
-                get_joke()
-                break
+                return get_joke()
 
 
 def get_joke():
@@ -68,7 +64,7 @@ def get_joke():
         # adds response data to the data variable
         global data
         data = response.json()
-        pick_joke()
+        return pick_joke()
 
 
 def pick_joke():
@@ -88,8 +84,8 @@ def pick_joke():
         joke for joke in data["jokes"] if category.lower() == joke["category"].lower()
     ]
     if not jokes_in_category:
-        print("oh no we don't have that category this time")
-        pick_joke()
+        print("Oh no we don't have that category this time")
+        return pick_joke()
     else:
         # Pick a random joke from the category
         random_joke = random.choice(jokes_in_category)

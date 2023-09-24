@@ -17,7 +17,7 @@
   "Delivery": "An outlaw is wanted."
 }{
   "Date": "Sunday 24 September 2023",
-  "Category": "Dark",
-  "Setup": "What did the boy with no arms get for Christmas?",
-  "Delivery": "I don't know, he hasn't opened it yet."
+  "Category": "Christmas",
+  "Setup": "Who is Santa's favourite singer?",
+  "Delivery": "Elf-is Presley!"
 }
