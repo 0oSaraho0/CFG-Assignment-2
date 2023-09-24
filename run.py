@@ -1,10 +1,17 @@
+# import to request the url from the api.  I pip installed requests first for thins import
 import requests
+# import to get a random choice of joke
 import random
 from random import choice
+# import to get todays date
 import datetime
+# import for slowing down the joke output in the console.
 import time
+# import to add the dictionary to the file
 import json
-from collections import OrderedDict
+# A bit of fun to make the title fancy.  I pip installed pyfiglet for this to work
+import pyfiglet
+from pyfiglet import Figlet
 
 # Get Todays Date and arrange strftime display
 date_today = datetime.datetime.now()
@@ -20,12 +27,14 @@ with open("jokes_output.txt", "a") as joke_file:
 
 
 def do_you_want_a_joke():
-    """A function to see if the user wants a joke today.
-    links to date_today function"""
+    """ funs title and asks if the user wants a joke today. uses if else statement to make sure yes or no
+    is input. links to date_today function"""
+    title = pyfiglet.figlet_format('Joke of the Day', font="ogre", justify='center')
+    print(title)
+
     want_joke = input("Would you like to hear a joke today? yes/no ").lower()
     if want_joke == "no":
-        print("On ok see you another day")
-        do_you_want_a_joke()
+        print("Oh ok see you another day")
     elif want_joke == "yes":
         date_today()
     else:
@@ -40,7 +49,7 @@ def date_today():
     with open("jokes_dict.txt", "r") as dict_joke_file:
         content = dict_joke_file.read()
         if strftime_date in content:
-            print("oh no you only get one joke a day. Come back again tomorrow")
+            print("Oh no you only get one joke a day. Come back again tomorrow")
             do_you_want_a_joke()
         else:
             get_joke()
